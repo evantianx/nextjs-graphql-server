@@ -19,3 +19,9 @@ Next.js provides a starter template for API Routes:
 ```bash
 npx create-next-app --example api-routes api-routes-app
 ```
+
+if prefer graphql:
+
+```bash
+npx create-next-app --example api-routes-graphql api-routes-graphql-app
+```
